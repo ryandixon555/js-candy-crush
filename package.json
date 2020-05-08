@@ -1,0 +1,21 @@
+{
+  "name": "js-candy-crush",
+  "version": "1.0.0",
+  "description": "A simple Candy Crush game built using JavaScript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Dixon",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-deporder": "^1.2.0",
+    "gulp-htmlclean": "^2.7.22",
+    "gulp-noop": "^1.0.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-strip-debug": "^3.0.0",
+    "gulp-terser": "^1.2.0"
+  }
+}
